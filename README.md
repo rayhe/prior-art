@@ -24,10 +24,17 @@ All inventions in this repository are dedicated to the **public domain** under [
 |---|--------|-------|--------|
 | 1 | LITF-PA-2026-001 | Continuous Neurodegeneration Screening via Wearable Gait Microanalysis | Wearables / HealthTech |
 | 2 | LITF-PA-2026-002 | Automated Municipal Code Contradiction Detection Using LLMs | LegalTech / LLM |
-| 3 | LITF-PA-2026-003 | Passive Structural Health Monitoring via Smartphone Accelerometers | CivicTech / CV |
+| 3 | LITF-PA-2026-003 | Passive Structural Health Monitoring of Bridges Using Smartphone Accelerometers | CivicTech / CV |
 | 4 | LITF-PA-2026-004 | Real-Time Pollinator Census via Edge-Deployed Bioacoustic Classification | AgTech / BioAcoustics |
 | 5 | LITF-PA-2026-005 | Synthetic Grid Inertia from Coordinated EV Battery Discharge | EnergyTech / Grid |
 | 6 | LITF-PA-2026-006 | Real-Time Multilateral Settlement Netting via Graph-Based Obligation Compression | FinTech / Infrastructure |
+| 7 | LITF-PA-2026-007 | Non-Invasive Buried Pipe Condition Assessment Using Vibro-Acoustic Sensors and Physics-Informed GNNs | Infrastructure / AI |
+| 8 | LITF-PA-2026-008 | Continuous Microplastic Detection in Municipal Water Using Inline Light Scattering and On-Device Neural Networks | WaterTech / Environmental AI |
+| 9 | LITF-PA-2026-011 | Continuous Subsurface Void Detection Using Fleet-Vehicle-Mounted Acoustic Resonance and Edge-Deployed CNNs | Infrastructure / Geotechnical AI |
+
+## Want to Do This Yourself?
+
+See **[HOW-TO-PRIOR-ART.md](HOW-TO-PRIOR-ART.md)** for a complete guide to publishing your own defensive prior art using git — including instructions for AI agents (OpenClaw, etc.) to automate the entire process.
 
 ## Web Version
 
