@@ -103,6 +103,45 @@ All inventions in this repository are dedicated to the **public domain** under [
 | 79 | LITF-PA-2026-129 | Continuous Sub-Centimeter Ground Deformation Monitoring Using Distributed Residential Security Camera Photogrammetric... | Security Camera / Geotechnical / Photogrammetry |
 | 80 | LITF-PA-2026-130 | Continuous Detection of Subterranean Termite Activity in Residential Structures Using Distributed Piezoelectric Conta... | Building Science / Pest Detection / Acoustic |
 | 81 | LITF-PA-2026-131 | Predictive Urban Tree Root Infrastructure Conflict Detection Using Fleet-Mounted Ground-Penetrating Radar and Physics... | Urban Infrastructure / GPR / Tree Root Detection |
+| 82 | LITF-PA-2026-132 | System and Method for Real-Time Vehicle Trajectory Anomaly Detection and Behavioral Threat Scorin... | Community Security / Computer Vision / Graph Neural Networks |
+| 83 | LITF-PA-2026-133 | System and Method for Predictive Vehicle Occupant Injury Mitigation Using Pre-Crash Wearable Biom... | Automotive Safety / Wearable Sensor Fusion / Edge Inference |
+| 84 | LITF-PA-2026-134 | System and Method for Passive Residential Foundation Deformation Monitoring Using Differential GN... | Structural Monitoring / Solar Energy / Precision GNSS |
+| 85 | LITF-PA-2026-135 | System and Method for Per-Animal Enteric Methane Emission Attribution Using Proximal Open-Path La... | Precision Livestock / Environmental Monitoring / Edge AI |
+| 86 | LITF-PA-2026-137 | System and Method for Residential Cooking Fire Risk Prediction Using Multi-Sensor Fusion of Stove... | Fire Safety / Edge AI / Sensor Fusion |
+| 87 | LITF-PA-2026-138 | System and Method for Continuous Monitoring of Residential Foundation Drainage System Performance... | Building Science / Edge AI / Predictive Maintenance |
+| 88 | LITF-PA-2026-139 | System and Method for Non-Intrusive Screening of Cognitive Decline Using Longitudinal Analysis of... | Digital Health / Edge AI / Ambient Computing |
+| 89 | LITF-PA-2026-140 | System and Method for Passive Vehicle Occupant Count Estimation Using Roadside Millimeter-Wave Ra... | Transportation / Radar Sensing / Edge AI |
+| 90 | LITF-PA-2026-141 | System and Method for Continuous Ambient Ionizing Radiation Field Mapping and Anomaly Detection U... | Public Health / Radiation Safety / Crowdsourced Sensing |
+| 91 | LITF-PA-2026-142 | System and Method for Automated Residential Pest Species Identification and Infestation Density E... | Pest Management / Computer Vision / Edge AI |
+| 92 | LITF-PA-2026-143 | System and Method for Automated Municipal Street Tree Structural Risk Assessment Using Fleet Vehi... | Urban Forestry / LiDAR / Predictive Analytics |
+| 93 | LITF-PA-2026-144 | System and Method for Continuous Residential Electrical Grounding Integrity Monitoring Using Dist... | Electrical Safety / Smart Home / Predictive Maintenance |
+| 94 | LITF-PA-2026-145 | System and Method for Automated Detection of Residential Chimney and Furnace Flue Obstruction Usi... | Home Safety / Acoustic Sensing / HVAC |
+| 95 | LITF-PA-2026-146 | System and Method for Predictive Residential Garage Door Opener Mechanical Wear and Torsion Sprin... |  |
+| 96 | LITF-PA-2026-147 | System and Method for Real-Time Indoor Airborne Allergen Classification and Personalized Exposure... |  |
+| 97 | LITF-PA-2026-148 | System and Method for Automated Detection and Population Estimation of Rodent Infestations Using ... |  |
+| 98 | LITF-PA-2026-149 | System and Method for Predictive Residential Clothes Dryer Exhaust Vent Lint Accumulation and Blo... |  |
+| 99 | LITF-PA-2026-150 | System and Method for Real-Time Indoor Volatile Organic Compound Source Localization and Emission... |  |
+| 100 | LITF-PA-2026-152 | System and Method for Residential Electrical Arc Fault Detection and Localization Using Distribut... | Electrical Safety / WiFi Sensing / Edge AI |
+| 101 | LITF-PA-2026-153 | System and Method for Continuous Non-Invasive Blood Pressure Estimation Using Dual-Site Photoplet... | Wearables / Biomedical Sensing / Cardiovascular Health / Edge AI |
+| 102 | LITF-PA-2026-154 | System and Method for Cooperative Pedestrian Crossing Intent Prediction and Vehicle Collision Ris... | Wearables / Automotive Safety / V2X / Edge AI |
+| 103 | LITF-PA-2026-155 | System and Method for Continuous Non-Invasive Core Body Temperature Estimation and Exertional Hea... | Wearables / Biomedical Sensing / Thermal Physiology / Edge AI / Occupational Safety |
+| 104 | LITF-PA-2026-156 | System and Method for Continuous Residential Sewer Lateral Root Intrusion and Grease Accumulation... | Plumbing Diagnostics / Acoustic Sensing / Predictive Maintenance / Edge AI |
+| 105 | LITF-PA-2026-157 | System and Method for Predictive Residential Water Heater Tank Failure and Sacrificial Anode Rod ... | Plumbing Diagnostics / Predictive Maintenance / Electrochemistry / Acoustic Sensing / Edge AI |
+| 106 | LITF-PA-2026-158 | System and Method for Non-Invasive In-Wall Plumbing Leak Detection and Localization Using Smartph... | Plumbing Diagnostics / Acoustic Sensing / WiFi Sensing / Edge AI / Predictive Maintenance |
+| 107 | LITF-PA-2026-159 | System and Method for Predicting Gas Oven Hot-Surface Igniter Failure and Delayed-Ignition Hazard... | Appliance Safety / Predictive Maintenance / Edge AI |
+| 108 | LITF-PA-2026-160 | System and Method for Tornado Early Warning Using Distributed Smartphone Barometric Infrasound Se... | Severe Weather / Distributed Sensing / Edge AI |
+| 109 | LITF-PA-2026-161 | System and Method for Distribution Transformer Loading and Health Estimation Using Electric Vehic... | Grid Infrastructure / EV Charging / Edge AI |
+| 110 | LITF-PA-2026-162 | System and Method for Refrigerator Compressor Health Prognostics Using Ambient Smart-Speaker Micr... | Appliance Health / Acoustic Sensing / Edge AI |
+| 111 | LITF-PA-2026-163 | System and Method for Microwave Oven Magnetron Health Prognostics Using Duty-Cycle-Gated Current ... | Appliance Health / Power Signature Analysis |
+| 112 | LITF-PA-2026-164 | System and Method for Detecting and Quantifying Silent Toilet Flapper Leaks Using Non-Intrusive A... | Water Conservation / Acoustic Sensing |
+| 113 | LITF-PA-2026-165 | System and Method for Predicting Torsion Spring Failure in Overhead Garage Doors Using Opener Mot... | Home Maintenance / Predictive Maintenance |
+| 114 | LITF-PA-2026-166 | System and Method for Non-Intrusive Detection of Pressure Tank Degradation and Differential Diagn... | Water Systems / Predictive Maintenance |
+| 115 | LITF-PA-2026-167 | System and Method for Predicting Septic Drain Field Hydraulic Failure Using Effluent Pump Electri... | Wastewater / Predictive Maintenance |
+| 116 | LITF-PA-2026-168 | System and Method for Localizing Air Leakage Sites in Residential HVAC Ductwork Using Acoustic Pu... | HVAC / Energy Efficiency |
+| 117 | LITF-PA-2026-169 | System and Method for Predictive Maintenance of Gas-Fired Furnaces Using Flame Rectification Curr... | HVAC / Home Maintenance |
+| 118 | LITF-PA-2026-170 | System and Method for Detecting Thermal Envelope Degradation in Residential Ovens Using Preheat-T... | Appliances / Home Maintenance |
+| 119 | LITF-PA-2026-171 | System and Method for Deepfake Video Liveness Verification via Challenge-Response Remote Photople... | AI Safety / Deepfake Detection |
+| 120 | LITF-PA-2026-172 | System and Method for Predicting Pothole Formation Using Fleet Vehicle Suspension Telemetry and F... | Transport / Road Infrastructure |
 
 ## Want to Do This Yourself?
 
