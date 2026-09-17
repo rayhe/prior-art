@@ -142,6 +142,7 @@ All inventions in this repository are dedicated to the **public domain** under [
 | 118 | LITF-PA-2026-170 | System and Method for Detecting Thermal Envelope Degradation in Residential Ovens Using Preheat-T... | Appliances / Home Maintenance |
 | 119 | LITF-PA-2026-171 | System and Method for Deepfake Video Liveness Verification via Challenge-Response Remote Photople... | AI Safety / Deepfake Detection |
 | 120 | LITF-PA-2026-172 | System and Method for Predicting Pothole Formation Using Fleet Vehicle Suspension Telemetry and F... | Transport / Road Infrastructure |
+| 121 | LITF-PA-2026-173 | System and Method for Estimating Automotive Brake Pad Wear and Predicting Brake Service Timing Us... | Automotive / Predictive Maintenance |
 
 ## Want to Do This Yourself?
 
