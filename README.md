@@ -143,6 +143,7 @@ All inventions in this repository are dedicated to the **public domain** under [
 | 119 | LITF-PA-2026-171 | System and Method for Deepfake Video Liveness Verification via Challenge-Response Remote Photople... | AI Safety / Deepfake Detection |
 | 120 | LITF-PA-2026-172 | System and Method for Predicting Pothole Formation Using Fleet Vehicle Suspension Telemetry and F... | Transport / Road Infrastructure |
 | 121 | LITF-PA-2026-173 | System and Method for Estimating Automotive Brake Pad Wear and Predicting Brake Service Timing Us... | Automotive / Predictive Maintenance |
+| 122 | LITF-PA-2026-174 | System and Method for Predicting HVAC Run Capacitor Failure Using Compressor Start Transient El... | HVAC / Predictive Maintenance |
 
 ## Want to Do This Yourself?
 
