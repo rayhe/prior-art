@@ -143,7 +143,7 @@ None of this needs to be built before it helps. If a cold snap is coming, open t
 2. EP3850163B1: Freeze prediction, detection, and mitigation using pressure as a function of time: https://eureka.patsnap.com/patent/EP3850163B1
 3. US20170138023: Managing a fluid condition in a pipe; freezing onset from temperature profile and latent-heat plateau: https://www.patentsencyclopedia.com/app/20170138023
 4. KR20150030120A: Freeze protection system comparing pipe, water, and ambient temperatures against stored thresholds: https://patents.google.com/patent/KR20150030120A
-5. National Physical Laboratory: Speed of sound in pure water; Bilaniuk and Wong equations (1993, erratum 1996) — http://resource.npl.co.uk/acoustics/techguides/soundpurewater/underlying-phys.html
+5. National Physical Laboratory: Speed of sound in pure water; Bilaniuk and Wong equations (1993, erratum 1996): http://resource.npl.co.uk/acoustics/techguides/soundpurewater/underlying-phys.html
 6. NOAA: Speed of sound in water; 1,402 m/s at 0 °C, 1,482 m/s at 20 °C: https://www.noaa.gov/education/resource-collections/ocean-coasts/speed-of-sound-in-water
 7. Bilaniuk, N., and Wong, G. S. K. (1993). Speed of sound in pure water as a function of temperature. J. Acoust. Soc. Am. 93(3), 1609-1612; erratum (1996), J. Acoust. Soc. Am. 99(5), 3257.
 8. Insurance Information Institute, via This Old House: Water damage and freezing: 22.6% of homeowners claims 2019-2023, 1.5 claims per 100 house-years, average claim $15,400: https://www.thisoldhouse.com/foundations/water-damage-statistics
